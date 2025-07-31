@@ -1,0 +1,10 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.svg
+
+frame/
+.ipynb_checkpoints/
